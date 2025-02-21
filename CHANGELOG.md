@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.1](https://github.com/abhimanyubabbar/rudder-iac/compare/v1.0.0...v1.0.1) (2025-02-21)
+
+
+### Bug Fixes
+
+* add dist to the ignore ([dc4612a](https://github.com/abhimanyubabbar/rudder-iac/commit/dc4612a7ff6a9d7867c59dc268e0c71c56c08976))
+
+
+### Documentation
+
+* minor changes in doc ([15fce75](https://github.com/abhimanyubabbar/rudder-iac/commit/15fce7560a5015ee895ec7ae7b135aa0346f0f87))
+* revert the heading ([e13bb27](https://github.com/abhimanyubabbar/rudder-iac/commit/e13bb27cf8315d4fe29e364be77182aed5d9f1e4))
+* update the docs again ([f295474](https://github.com/abhimanyubabbar/rudder-iac/commit/f2954742544e9f2cedc7b7ed15370e0272aa9f62))
+
 ## 1.0.0 (2025-02-21)
 
 
