@@ -1,4 +1,4 @@
-# Rudder CLI
+# rudder-cli
 
 ## Table of Contents
 
